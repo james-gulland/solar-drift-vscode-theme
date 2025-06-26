@@ -1,0 +1,21 @@
+{
+  "name": "solar-drift-dark-theme",
+  "displayName": "Solar Drift Dark Theme",
+  "description": "A futuristic dark theme with a blend of turquoise, orange, and yellow colours.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solar Drift Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solar-drift-color-theme.json"
+      }
+    ]
+  }
+}
