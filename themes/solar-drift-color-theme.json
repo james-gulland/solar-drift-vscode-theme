@@ -241,7 +241,7 @@
       "errorForeground": "#DA2A07",
       "extensionBadge.remoteBackground": "#252b37",
       "extensionBadge.remoteForeground": "#E1DEE3",
-      "extensionButton.prominentForeground": "#ffffff",
+      "extensionButton.prominentForeground": "#252b37",
       "extensionIcon.starForeground": "#FFCB6B",
       "foreground": "#7F8BAD",
       "gitDecoration.addedResourceForeground": "#5DE4c7CC",
