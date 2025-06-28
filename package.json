@@ -31,5 +31,6 @@
         "path": "./themes/solar-drift-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "solar_drift_icon.png"
 }
