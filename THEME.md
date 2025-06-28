@@ -1,6 +1,5 @@
 bg
 #252b37 - dark background
-#7F8BAD80 - selection
 
 turquoise
 #5DE4c7 -  turquoise
@@ -19,6 +18,7 @@ yellow
 neutrals
 #E1DEE3 - platinum
 7F8BAD - alt grey
+717cb425 - highlight
 
 not using: 
 #015164 - midnight green
