@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/james-gulland/solar-drift-vscode-theme/main/screenshot.png" />
+<img src="https://raw.githubusercontent.com/james-gulland/solar-drift-vscode-theme/main/colour-wheel.png" />
 
 ## Solar Drift Theme
 
