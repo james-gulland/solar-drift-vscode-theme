@@ -10,6 +10,7 @@ orange
 #ff7546
 
 red
+#d0679d
 #DA2A07
 
 yellow
