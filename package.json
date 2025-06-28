@@ -1,8 +1,8 @@
 {
   "name": "solar-drift-dark-theme",
   "displayName": "Solar Drift Dark",
-  "description": "A futuristic dark theme with a blend of turquoise, orange, and yellow colours.",
-  "version": "1.6.0",
+  "description": "A futuristic, sci-fi inspired, dark theme with a blend of turquoise, orange, and yellow colours.",
+  "version": "1.5.0",
   "publisher": "JamesGulland",
   "repository": {
     "type": "git",
@@ -23,7 +23,10 @@
     "solar drift",
     "solar",
     "sci-fi",
+    "sci-fi theme",
+    "minimal theme",
     "futuristic",
+    "futuristic theme",
     "orange",
     "turquoise",
     "yellow",
