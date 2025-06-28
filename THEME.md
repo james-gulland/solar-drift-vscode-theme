@@ -1,5 +1,6 @@
 bg
 #252b37 - dark background
+#23272e - darker
 
 turquoise
 #5DE4c7 -  turquoise
