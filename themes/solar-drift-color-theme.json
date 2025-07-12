@@ -1374,10 +1374,10 @@
       }
     },
     {
-      "name": "[VSCODE-CUSTOM] Ruby Keyword Operator Other",
-      "scope": "keyword.operator.other.ruby",
+      "name": "[VSCODE-CUSTOM] Ruby Other Special Method",
+      "scope": "keyword.other.special-method.ruby",
       "settings": {
-        "foreground": "#98C379"
+        "foreground": "#FF6633"
       }
     },
     {
@@ -1392,6 +1392,27 @@
       "scope": "meta.class.php",
       "settings": {
         "foreground": "#E1DEE3"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] PHP Keyword Other Namespace",
+      "scope": "keyword.other.namespace.php, keyword.other.use.php",
+      "settings": {
+        "foreground": "#FF6633"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] PHP Other Type",
+      "scope": "keyword.other.type.php",
+      "settings": {
+        "foreground": "#98D1EF"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] PHP Other Type",
+      "scope": "punctuation.definition.variable.php",
+      "settings": {
+        "foreground": "#7F8BAD"
       }
     }
     ]
