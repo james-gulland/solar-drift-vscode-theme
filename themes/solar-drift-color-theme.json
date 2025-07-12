@@ -1202,7 +1202,7 @@
       "name": "[VSCODE-CUSTOM] Python Function Call",
       "scope": "support.type.python",
       "settings": {
-        "foreground": "#98D1EF"
+        "foreground": "#FFCB6B"
       }
     },
     {
@@ -1300,7 +1300,7 @@
       "name": "[VSCODE-CUSTOM] Rust Entity Name Type",
       "scope": "entity.name.type.rust",
       "settings": {
-        "foreground": "#ff7546"
+        "foreground": "#98D1EF"
       }
     },
     {
@@ -1312,9 +1312,30 @@
     },
     {
       "name": "[VSCODE-CUSTOM] Rust Entity Name Lifetime",
-      "scope": "entity.name.lifetime.rust",
+      "scope": "entity.name.lifetime.rust, keyword.other.rust",
       "settings": {
         "foreground": "#FF6633"
+      }
+    },
+     {
+      "name": "[VSCODE-CUSTOM] Rust Keyword Other Function",
+      "scope": "keyword.other.fn.rust",
+      "settings": {
+        "foreground": "#7F8BAD"
+      }
+    },
+     {
+      "name": "[VSCODE-CUSTOM] Rust Entity Name Function",
+      "scope": "entity.name.function.macro.rust",
+      "settings": {
+        "foreground": "#FFCB6B"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Rust Entity Name Function",
+      "scope": "entity.name.namespace.rust",
+      "settings": {
+        "foreground": "#E1DEE3"
       }
     },
     {
