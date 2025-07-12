@@ -1202,7 +1202,7 @@
       "name": "[VSCODE-CUSTOM] Python Function Call",
       "scope": "support.type.python",
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#98D1EF"
       }
     },
     {
@@ -1220,6 +1220,13 @@
       }
     },
     {
+      "name": "[VSCODE-CUSTOM] Python Keyword Control Flow",
+      "scope": "keyword.control.flow.python",
+      "settings": {
+        "foreground": "#7F8BAD"
+      }
+    },
+    {
       "name": "[VSCODE-CUSTOM] Python Function Separator Punctuation",
       "scope": "punctuation.separator.parameters.python",
       "settings": {
@@ -1228,7 +1235,7 @@
     },
     {
       "name": "[VSCODE-CUSTOM] CSharp Fields",
-      "scope": "keyword.other.directive.using.cs",
+      "scope": "keyword.other.directive.using.cs, keyword.operator.expression.new.cs",
       "settings": {
         "foreground": "#FF6633"
       }
@@ -1263,7 +1270,7 @@
     },
     {
       "name": "[VSCODE-CUSTOM] CSharp Variables Other",
-      "scope": "variable.other.object.cs",
+      "scope": "variable.other.object.cs, entity.name.variable.local.cs, entity.name.variable.parameter.cs",
       "settings": {
         "foreground": "#E1DEE3"
       }
@@ -1280,6 +1287,14 @@
       "scope": "entity.name.variable.property.cs",
       "settings": {
         "foreground": "#E1DEE3"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] CSharp Storage Type",
+      "scope": "keyword.operator.expression.await.cs",
+      "settings": {
+        "foreground": "#FF6633",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1414,7 +1429,14 @@
       "settings": {
         "foreground": "#7F8BAD"
       }
-    }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] PHP Other Type",
+      "scope": "support.class.builtin.php",
+      "settings": {
+        "foreground": "#E1DEE3"
+      }
+    },
     ]
   }
   
