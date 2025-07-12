@@ -679,7 +679,7 @@
       {
         "scope": ["entity.name.type.alias"],
         "settings": {
-          "foreground": "#7F8BAD"
+          "foreground": "#98D1EF"
         }
       },
       {
@@ -1163,7 +1163,195 @@
           "foreground": "#7F8BAD"
         }
       },
-      
+      {
+      "name": "[VSCODE-CUSTOM] Python Constants Other",
+      "scope": "source.python constant.other",
+      "settings": {
+        "foreground": "#5DE4c7"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Python Constants",
+      "scope": "source.python constant",
+      "settings": {
+        "foreground": "#5DE4c7"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Python Placeholder Character",
+      "scope": "constant.character.format.placeholder.other.python storage",
+      "settings": {
+        "foreground": "#FF6633"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Python Magic",
+      "scope": "support.variable.magic.python",
+      "settings": {
+        "foreground": "#E06C75"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Python Meta Function Parameters",
+      "scope": "meta.function.parameters.python",
+      "settings": {
+        "foreground": "#FF6633"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Python Function Separator Annotation",
+      "scope": "punctuation.separator.annotation.python",
+      "settings": {
+        "foreground": "#E1DEE3"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Python Function Separator Punctuation",
+      "scope": "punctuation.separator.parameters.python",
+      "settings": {
+        "foreground": "#E1DEE3"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] CSharp Fields",
+      "scope": "entity.name.variable.field.cs",
+      "settings": {
+        "foreground": "#E1DEE3"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] CSharp Keyword Operators",
+      "scope": "source.cs keyword.operator",
+      "settings": {
+        "foreground": "#E1DEE3"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] CSharp Entity Name Function",
+      "scope": "entity.name.function.cs",
+      "settings": {
+        "foreground": "#FFCB6B"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] CSharp Variables",
+      "scope": "variable.other.readwrite.cs",
+      "settings": {
+        "foreground": "#E1DEE3"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] CSharp Variables Other",
+      "scope": "variable.other.object.cs",
+      "settings": {
+        "foreground": "#E1DEE3"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] CSharp Property Other",
+      "scope": "variable.other.object.property.cs",
+      "settings": {
+        "foreground": "#E1DEE3"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] CSharp Property",
+      "scope": "entity.name.variable.property.cs",
+      "settings": {
+        "foreground": "#E1DEE3"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] CSharp Storage Type",
+      "scope": "storage.type.cs",
+      "settings": {
+        "foreground": "#E5C07B"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Rust Unsafe Keyword",
+      "scope": "keyword.other.unsafe.rust",
+      "settings": {
+        "foreground": "#C678DD"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Rust Entity Name Type",
+      "scope": "entity.name.type.rust",
+      "settings": {
+        "foreground": "#ff7546"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Rust Storage Modifier Lifetime",
+      "scope": "storage.modifier.lifetime.rust",
+      "settings": {
+        "foreground": "#E1DEE3"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Rust Entity Name Lifetime",
+      "scope": "entity.name.lifetime.rust",
+      "settings": {
+        "foreground": "#FF6633"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Rust Storage Type Core",
+      "scope": "storage.type.core.rust",
+      "settings": {
+        "foreground": "#ff7546"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Rust Meta Attribute",
+      "scope": "meta.attribute.rust",
+      "settings": {
+        "foreground": "#FF6633"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Rust Storage Class Std",
+      "scope": "storage.class.std.rust",
+      "settings": {
+        "foreground": "#ff7546"
+      }
+    },
+     {
+      "name": "[VSCODE-CUSTOM] Ruby Punctuation Separator Variable",
+      "scope": "punctuation.separator.variable.ruby",
+      "settings": {
+        "foreground": "#E06C75"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Ruby Other Constant Variable",
+      "scope": "variable.other.constant.ruby",
+      "settings": {
+        "foreground": "#FF6633"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Ruby Keyword Operator Other",
+      "scope": "keyword.operator.other.ruby",
+      "settings": {
+        "foreground": "#98C379"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] PHP Punctuation Variable Definition",
+      "scope": "punctuation.definition.variable.php",
+      "settings": {
+        "foreground": "#E06C75"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] PHP Meta Class",
+      "scope": "meta.class.php",
+      "settings": {
+        "foreground": "#E1DEE3"
+      }
+    }
     ]
   }
   

@@ -4,10 +4,10 @@ bg
 
 turquoise
 #5DE4c7 -  turquoise
-00D2C2 - new turquoise
+#98D1EF - light blue
 
 orange
-#ff7546
+#FF6633
 
 red
 #d0679d
